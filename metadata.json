@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard SOC Dashboard",
+  "description": "A professional-grade phishing detection system using multi-layer analysis and AI for SOC analysts and security professionals.",
+  "requestFramePermissions": []
+}

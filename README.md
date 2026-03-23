@@ -2,48 +2,35 @@
 
 > **"Trust No One. Verify Everything."**
 
-![Status](https://img.shields.io/badge/System-Operational-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Gemini%20AI-cyan?style=for-the-badge)
-
-**PhishGuard** is a next-generation cybersecurity dashboard designed for SOC analysts and security professionals. It combines multi-layer heuristic analysis with **Google's Gemini AI** to detect phishing attempts, analyze malicious URLs, and visualize global threats in real-time.
-
 <div align="center">
-  <img src="./screenshot.png" alt="PhishGuard Dashboard Screenshot" width="800" />
+
+![Status](https://img.shields.io/badge/System-Operational-green?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge) ![Tech](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Gemini%20AI-cyan?style=for-the-badge) ![Deployment](https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel)
+
+**PhishGuard** is an elite, next-generation cybersecurity dashboard designed for modern Security Operations Centers (SOCs). It fuses multi-layered heuristic analysis with the zero-latency reasoning of **Google's Gemini AI** to detect phishing attempts, dissect malicious URLs, and visualize global threats in real-time.
+
+<img src="./screenshot.png" alt="PhishGuard Live Dashboard" width="850" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0,255,255,0.2); margin: 20px 0;" />
+
 </div>
 
 ---
 
-## ✨ Key Features
+## 🔥 Elite Features
 
-### 🔍 Advanced Phishing Detection
-- **Multi-Layer Analysis**: Checks URL structure, domain reputation, and SSL validity.
-- **AI-Powered Verdicts**: Uses Gemini 3 Flash model to interpret social engineering context.
-- **Confidence Scoring**: Returns a precise risk score (0-100%) with explainable insights.
-- **Red Flag Highlighting**: Identifies specific threats like homograph attacks and typosquatting.
+### 🔍 Advanced AI Phishing Detection
+* **Multi-Layer Analysis**: Instant evaluation of URL structure, domain reputation, and SSL validity.
+* **AI-Powered Verdicts**: Employs the Gemini 3 Flash model to interpret real-world social engineering contexts.
+* **Confidence Scoring**: Precision risk scores (0-100%) augmented with actionable, explainable insights.
+* **Red Flag Highlighting**: Rapidly identifies homograph attacks, typosquatting, and zero-day abuse.
 
 ### 🖥️ Professional SOC UI/UX
-- **Dark Mode Aesthetic**: Enterprise-grade "Midnight Blue" theme designed to reduce eye strain.
-- **Glassmorphism**: Modern frosted glass panels with subtle neon accents.
-- **Cinematic Scanning**: Immersive scan-line animations and visual feedback during analysis.
-- **Smart Paste Detection**: Automatically initiates a deep scan the moment a URL is pasted.
-- **Responsive Design**: Fully optimized for desktops, tablets, and large monitoring screens.
+* **Dark Mode Aesthetic**: Enterprise-grade "Midnight Blue" and neon-cyan visual hierarchy designed out-of-the-box for low-light SOC environments.
+* **Advanced Cyber Animations**: Dynamic radar sweeps, scan-line targeting, and glowing alerts.
+* **Smart Paste Detection**: The system intelligently initiates a deep-scan the moment a URL is pasted into the window.
 
-### 🛠️ Integrated Security Tools
-- **Context-Aware Execution**: Specialized modals with detailed tool descriptions and live terminal output.
-- **DNS Propagation**: Real-time lookup using Google's DNS over HTTPS (DoH).
-- **WHOIS & SSL Inspector**: AI-simulated deep dives into domain ownership and certificate chains.
-- **Port Scanner & Header Analyzer**: Reconnaissance tools powered by AI grounding.
-- **Terminal Interface**: Interactive command-line style output for tool execution.
-
-### 🌐 Live Threat Intelligence
-- **Global Feed**: Real-time scrolling feed of simulated cyber attacks (SQLi, XSS, C2 Callbacks).
-- **Sector Analysis**: Visualization of targets across Finance, Healthcare, and Government sectors.
-
-### 👨‍💻 Developer API Hub
-- **API Playground**: Built-in documentation with dynamic code snippets (cURL, Node, Python).
-- **Key Management**: Interface to regenerate and copy API keys.
-- **Usage Metrics**: Live visualization of API latency and uptime.
+### 🌐 Live Threat Intelligence & Tools
+* **Context-Aware Terminal Execution**: Specialized analysis with live CLI-style readout interfaces.
+* **Global Feed**: Real-time simulated scrolling alerts of cyber attacks (SQLi, XSS, C2 Callbacks) across various industry sectors.
+* **Developer Hub**: Built-in interactive API playground holding documentation for scalable integrations.
 
 ---
 

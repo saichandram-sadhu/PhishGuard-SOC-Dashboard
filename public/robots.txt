@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phish-guard-soc-dashboard-main.vercel.app/sitemap.xml

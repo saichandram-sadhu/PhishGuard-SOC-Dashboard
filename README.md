@@ -8,6 +8,10 @@
 
 **PhishGuard** is a next-generation cybersecurity dashboard designed for SOC analysts and security professionals. It combines multi-layer heuristic analysis with **Google's Gemini AI** to detect phishing attempts, analyze malicious URLs, and visualize global threats in real-time.
 
+<div align="center">
+  <img src="./screenshot.png" alt="PhishGuard Dashboard Screenshot" width="800" />
+</div>
+
 ---
 
 ## ✨ Key Features
